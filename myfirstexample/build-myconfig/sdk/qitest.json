@@ -1,0 +1,14 @@
+[
+  {
+    "working_directory": null,
+    "timeout": 20,
+    "name": "test_my_first_example",
+    "gtest": false,
+    "environment": null,
+    "nightly": false,
+    "perf": false,
+    "cmd": [
+      "/home/coleh/Documents/nao-research/myfirstexample/build-myconfig/sdk/bin/test_my_first_example"
+    ]
+  }
+]

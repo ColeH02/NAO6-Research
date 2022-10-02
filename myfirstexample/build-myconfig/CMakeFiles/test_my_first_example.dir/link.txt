@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=gnu++11 -D_GLIBCXX_USE_CXX11_ABI=0 -g   CMakeFiles/test_my_first_example.dir/test.cpp.o  -o sdk/bin/test_my_first_example -rdynamic -Wl,-rpath,:::::::::::::: 

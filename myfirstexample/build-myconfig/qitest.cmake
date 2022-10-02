@@ -1,0 +1,1 @@
+--name;test_my_first_example;--timeout;20;--;/home/coleh/Documents/nao-research/myfirstexample/build-myconfig/sdk/bin/test_my_first_example

@@ -1,0 +1,8 @@
+/home/coleh/Documents/nao-research/myfirstexample/build-myconfig/CMakeFiles/install.dir
+/home/coleh/Documents/nao-research/myfirstexample/build-myconfig/CMakeFiles/list_install_components.dir
+/home/coleh/Documents/nao-research/myfirstexample/build-myconfig/CMakeFiles/rebuild_cache.dir
+/home/coleh/Documents/nao-research/myfirstexample/build-myconfig/CMakeFiles/edit_cache.dir
+/home/coleh/Documents/nao-research/myfirstexample/build-myconfig/CMakeFiles/my_first_example.dir
+/home/coleh/Documents/nao-research/myfirstexample/build-myconfig/CMakeFiles/test_my_first_example.dir
+/home/coleh/Documents/nao-research/myfirstexample/build-myconfig/CMakeFiles/install/strip.dir
+/home/coleh/Documents/nao-research/myfirstexample/build-myconfig/CMakeFiles/install/local.dir
